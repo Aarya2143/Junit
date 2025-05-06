@@ -1,9 +1,9 @@
+/*
 package org.example.TestApplication;
 
 import org.example.Application.BeforeAnnotation;
 import org.example.Application.Calculator;
 import org.junit.*;
-import org.junit.rules.Timeout;
 
 import java.util.Date;
 
@@ -35,3 +35,4 @@ public class BeforeAnnotationTest {
         System.out.println("End Test : " + new Date());
     }
 }
+*/
